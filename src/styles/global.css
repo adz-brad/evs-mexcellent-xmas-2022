@@ -9,4 +9,17 @@
         src: url('../fonts/fiesta-rumba.ttf');
     }
 
+    @font-face {
+        font-family: Unbounded;
+        src: url('../fonts/Unbounded.ttf');
+    }
+
+}
+
+h1 {
+    font-family: Fiesta;
+}
+
+body {
+    font-family: Unbounded;
 }
